@@ -1,8 +1,11 @@
 body{
-    color: rgb(160, 12, 12);
-    background-color: aquamarine
+    color: brown;
+    background-color: bisque
+}
+p{
+    font-size: 15pt
 }
 
 a{
-    color: blueviolet;
+    color: black;
 }
